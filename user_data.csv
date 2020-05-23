@@ -1,0 +1,7 @@
+username,zip_code,preferred_restaurant_type,price_range,preferred_feature
+samantha,11209,thai,$31 to $50,Food
+anna,10025,chinese,$31 to $50,Food
+sam,10003,seafood,Under $30,Value
+slz,10003,steakhouse,$50 and over,Ambiance
+test,10003,american,Under $30,Food
+sam2,10003,american,Under $30,Food
